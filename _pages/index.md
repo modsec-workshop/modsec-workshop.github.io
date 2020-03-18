@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: First International Workshop on Modeling and Security
 permalink: /
 ---
 
@@ -30,6 +30,8 @@ We invite you to submit a paper and join us at the ModSec workshop, which will b
 Canada.
 We are excited to welcome original work describing research, visions, or demos in all areas at the intersection 
 of software engineering and security for this workshop.
+We are interested especially in contributions that look at modeling security either from the software engineering perspective, 
+or the security point of view (with threats models, attackers and defenders models).
 
 We accept both longer papers on mature/completed work in a research track, as well as shorter papers on work in 
 progress or work that has yet to begin in a vision track. This decision to accept both types of submissions aims to 
@@ -40,16 +42,10 @@ workshop's participants.
 
 
 Topics of interest include, but are not limited to, the following:
-- Risk-based development
-- Security in agile methods
-- Policy frameworks for access control
-- Modeling security
-- Security testing methodologies and code reviewing
-- Patch and update management
-- Threat Models and attackers
-- Secure system requirements and architecture
-- Software variability and diversity for security
-- Security in machine learning
+- **Modeling Security:** Threat models and attackers, Secure system requirements and architecture, Software variability and diversity for security
+- **Security in the Development Process:** Security testing methodologies, Patch and update management, Security in lifecycle development
+- **Security in Machine Learning-based Systems:** Security methodologies for machine learning, adversarial machine learning, modeling security in machine learning, modeling machine learning
+- **Secure Modeling:** Modeling with security aspects, V&V, Secure Software Variability
 
 We have observed that the most effective workshops are those that encourage discussion between attendees. 
 Each paper presentation will be followed by about 10 minutes of discussion to promote engagement and helpful feedback.
@@ -65,12 +61,13 @@ Submissions must be uploaded through EasyChair at the following link
  
 We accept three types of publications:
 
-- **Research track**: Full research papers (10 pages)** present a novel, innovative approach to one of the workshop’s topics. 
+- **Research track**: Full research papers (10 pages) present a novel, innovative approach to one of the workshop’s topics. 
 References may be collected in 2 additional pages.
-- **Short papers (5 pages)** present new ideas or early-stage research related to one of the workshop’s topics. 
+- **Vision track**: Short papers (5 pages) present new ideas or early-stage research related to one of the workshop’s topics. 
 References may be collected in 1 additional page.
-- **Tool demo (2 pages)** to present a tool that allows the modelling of security aspects or that can demonstrate an 
-interest for workshop’s participants. We expect tool presentation to be 15 minutes or less
+- **Demo track**: Demo papers (2 pages) introduces a tool that allows the modelling of security aspects or
+ that can demonstrate an interest for workshop’s participants. We expect tool presentation to be 15 minutes or less
+  during the workshop.
 
 All submissions must be in PDF and in the ACM format. Formatting instructions are available at 
 [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) for both 
@@ -95,9 +92,8 @@ handled by the main conference and will be posted closer to the event itself on 
 
 # Organization
 ### Workshop co-chairs
-
-- [Pierre Laperdrix](https://plaperdr.github.io/), CNRS, CRIStAL (France)
 - [Moussa Amrani](https://directory.unamur.be/staff/mamrani), Université de Namur (Belgique)
+- [Pierre Laperdrix](https://plaperdr.github.io/), CNRS, CRIStAL (France)
 - [Paul Temple](https://templep.github.io/), Université de Namur (Belgique)
 
 ### Program committee (to be communicated)
