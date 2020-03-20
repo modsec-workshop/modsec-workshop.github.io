@@ -65,15 +65,12 @@ We accept three types of publications:
 References may be collected in 2 additional pages.
 - **Vision track**: Short papers (5 pages) present new ideas or early-stage research related to one of the workshop’s topics. 
 References may be collected in 1 additional page.
-- **Demo track**: Demo papers (2 pages) introduces a tool that allows the modelling of security aspects or
- that can demonstrate an interest for workshop’s participants. We expect tool presentation to be 15 minutes or less
-  during the workshop.
+- **Demo track**: Demo papers (2 pages) introduce a tool that allows the modelling of security aspects or
+ that can demonstrate an interest for workshop’s participants. We expect tool presentation to be 15 minutes or less during the workshop.
 
 All submissions must be in PDF and in the ACM format. Formatting instructions are available at 
-[https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) for both 
-LaTeX and Word users. LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, 
-enable the conference format in the preamble of the document (i.e., \documentclass[sigconf,review]{acmart}), 
-and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). 
+[https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) for both LaTeX and Word users. 
+LaTeX users must use the provided acmart.cls and ACM-Reference-Format.bst without modification, enable the conference format in the preamble of the document (i.e., \documentclass[sigconf,review]{acmart}), and use the ACM reference format for the bibliography (i.e., \bibliographystyle{ACM-Reference-Format}). 
 The review option adds line numbers, thereby allowing referees to refer to specific lines in their comments.
 
 All accepted workshop papers will be published in the ACM Digital Library along with the main conference’s proceedings.
